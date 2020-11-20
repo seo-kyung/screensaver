@@ -15,7 +15,7 @@ body {
 
 .name_container {
     padding-left: 10px;
-    height: 2.5vw;
+    height: 38px;
     font-size: 15px;
     position: relative;
 }
@@ -73,7 +73,7 @@ body {
     margin-top: 1px;
     background-color: #d9d9d9; 
     font-size: 10px;
-    height: 2.5vw;
+    height: 38px;
     display: flex;
     justify-content: center;
     align-items: center;
